@@ -14,3 +14,4 @@ Scripts:
 9-firstdirdeletion
 10-back
 11-lists
+12-file_type
