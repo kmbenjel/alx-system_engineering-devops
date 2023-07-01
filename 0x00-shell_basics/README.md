@@ -3,4 +3,4 @@
 Scripts:
 
 0-current_working_directory | PWD
-
+1-lsitit | LS
