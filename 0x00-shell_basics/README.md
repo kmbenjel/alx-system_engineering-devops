@@ -7,3 +7,4 @@ Scripts:
 2-bring_me_home | CD
 3-listfiles | Long List
 4-listmorefiles
+5-listfilesdigitonly
