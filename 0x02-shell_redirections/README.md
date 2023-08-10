@@ -13,3 +13,8 @@
 12-newest_files
 13-unique
 14-findthatword
+15-countthatword
+16-whatsnext
+17-hidethisword
+18-letteronly
+19-AZ
