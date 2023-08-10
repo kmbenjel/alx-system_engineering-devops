@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -E ^[a-zA-Z] /etc/ssh/sshd_config
+sed s/A/Z/g | sed s/c/e/g
