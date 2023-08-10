@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | uniq | head
+cat <&0 | uniq | head
