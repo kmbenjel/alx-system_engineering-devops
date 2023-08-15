@@ -1,2 +1,2 @@
 #!/bin/bash
-cat acroustic | cut -c 1 | paste -sd ''
+cat <&0 | cut -c 1 | paste -sd ''
