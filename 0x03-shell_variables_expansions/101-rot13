@@ -1,2 +1,2 @@
 #!/bin/bash
-cat <&0 | tr "ABCDEFJHIJKLMNOPQRSTUVWXYZ" "NOPQRSTUVWXYZABCDEFJHIJKLM" | tr "abdefghijklmnoqrstuvwxyz" "noqrstuvwxyzabdefghijklm" | tr "cp" "pc"
+cat <&0 | tr 'A-Za-z' 'N-ZA-Mn-za-m'
