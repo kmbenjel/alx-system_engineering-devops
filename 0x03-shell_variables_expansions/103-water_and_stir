@@ -1,2 +1,2 @@
 #!/bin/bash
-Rirelbar vf n cebcbarag bs fgebat rapelcgvba.
+alias water='echo $WATER | tr "water" "01234"' stir='echo $STIR | tr "stir." "01234"' | echo $(($(water)+$(stir))) | tr "01234567" "bestchol"
