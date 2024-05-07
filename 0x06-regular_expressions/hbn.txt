@@ -1,7 +1,4 @@
-hbn
+htn
 hbtn
-hbttn
-hbtttn
-hbttttn
-hbtttttn
-hbttttttn
+hbbtn
+hbbbtn
